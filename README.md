@@ -1,4 +1,4 @@
-# VR Smartphone/Smartwatch Controller
+# VRTouch3D: Smartphone/Smartwatch Controller in the virtual world
 
 This research project aims to develop a functional VR controller using a smartphone or smartwatch. The objective is to offer a universal and user-friendly VR pen that can be utilized for various applications such as art, graphic design, 3D modeling, and game development. This controller aims to set itself apart from previous work in the field by being more accessible and user-friendly for the general public.
 
