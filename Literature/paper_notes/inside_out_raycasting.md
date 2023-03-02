@@ -1,16 +1,13 @@
-# Conference Paper Reading Notes
-
-## Title
-[Title of the paper]
+# [Inside-out Tracking Controller for VR/AR HMD using Image Recognition with Smartphones](https://dl.acm.org/doi/10.1145/3388770.3407430)
 
 ## Year
-[Year the paper was published]
+Auguet 2020
 
 ## TL;DR
-[One to two sentence summary of the paper's main findings]
+A VR/AR raycasting system using image recognition from smartphone's camera. This can detect 6DoF and perform raycasting even when the controller is in an occluded spot.
 
 ## Overall Impression
-[Your overall impression of the paper - did you find it interesting? Was it well-written and easy to understand?]
+An easy to read and understand paper. The smartphone could detect its own position even outside the detect range of the HMD. Frameworks like VRySmart was built from this feature for SLAM-based tracking.
 
 ## Key Points
 - [Key point 1]
