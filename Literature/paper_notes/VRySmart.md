@@ -1,7 +1,4 @@
-# Conference Paper Reading Notes
-
-## Title
-[VRySmart: a Framework for Embedding Smart Devices in Virtual Reality](https://dl.acm.org/doi/10.1145/3491101.3519717)
+# [VRySmart: a Framework for Embedding Smart Devices in Virtual Reality](https://dl.acm.org/doi/10.1145/3491101.3519717)
 
 ## Year
 April 2022
