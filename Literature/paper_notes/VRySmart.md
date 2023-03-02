@@ -48,5 +48,5 @@ This is extremely helpful for my current project, since it also includes a GitHu
 ---
 
 ### Additional Information
-[Include any additional information, such as links or citations to related papers, if applicable]
+- Hattori's paper: [URL](https://dl.acm.org/doi/10.1145/3388770.3407430)
 
