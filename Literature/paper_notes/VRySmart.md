@@ -1,7 +1,7 @@
 # Conference Paper Reading Notes
 
 ## Title
-VRySmart: a Framework for Embedding Smart Devices in Virtual Reality
+[VRySmart: a Framework for Embedding Smart Devices in Virtual Reality](https://dl.acm.org/doi/10.1145/3491101.3519717)
 
 ## Year
 April 2022
@@ -41,6 +41,8 @@ This is extremely helpful for my current project, since it also includes a GitHu
 
 ## Notes to Myself
 - The SLAM-based tracking method is similar as Inside-out Tracking Controller using phone's camera from Hattori's paper.
+- Zhang also have discussed about the fully-immersion of smartphones in VR
+- Pseudo-haptic Controls was presents by Marco to improve the accuracy of touchscreen in VR
 - Possiblity of developing writing & drawing application in VR using the framework.
 - Intergrating smartwatches into the framework.
 - Upgrading to Unity 2022/2023?
@@ -49,4 +51,6 @@ This is extremely helpful for my current project, since it also includes a GitHu
 
 ### Additional Information
 - Hattori's paper: [URL](https://dl.acm.org/doi/10.1145/3388770.3407430)
+- Zhang's paper: [URL](https://dl.acm.org/doi/10.1145/3415256.3421499)
+- Marco's paper: [URL](https://dl.acm.org/doi/10.1145/3290607.3312927)
 
